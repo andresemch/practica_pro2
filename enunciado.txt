@@ -1,0 +1,99 @@
+1. ENUNCIADO
+
+Terminal de contenedores con N filas x M columnas
+  - Entre filas hay pasillos
+  - PLAZAS (contenedor) rectangulares
+
+Las hileras -> área de almacenaje
+Área de espera -> almacenaje temporal de pequeña cantidad de contenedores (no se
+limitará la capacidad)
+
+Existen contenedores de: 1, 2 y 3 plazas.
+Se pueden apilar pero siempre tocando el suelo y hasta un máximo de H pisos.
+
+Hilera -> 0 a N-1
+Plazas -> 0 a M-1
+Niveles de piso -> 0 a H-1
+
+Ubicación -> (i,j,k)
+Espacios libres: válidos e inválidos
+  - Definimos hueco grupo de plazas consecutivas libres válidas en hilera y piso
+    con contenedores a izquierda y derecha
+
+La situación en el área de almacenaje queda determinada por ubicación y longitud
+formando lo que llamamos segmento.
+
+
+
+Dos operaciones básicas:
+  · inserta_contenedor
+  · retira_contenedor
+Cuando llega un contenedor nuevo, inserta_contenedor debe encontrar un lugar
+apropiado automáticamente:
+  - algoritmo eficiente en tiempo y espacio de memoria
+  - minimizar fragmentación (no poder ubicar habiendo plazas no ocupadas
+    suficientes)
+
+NO se puede reorganizar los contenedores ya exitentes:
+  - Si no hay espacio área de almacenaje -> área de espera
+  - Si retira_contenedor tiene contenedores encima, estos serán desplazados al
+    área de espera en orden de superior a inferior y de menor a mayor plaza
+    (izquierda a derecha y de arriba a abajo)
+
+Cuando se completa con éxito retira_contenedor, se recorre área de espera para
+recolocar en almacenaje tantos como sea posible.
+
+Implementar BEST_FIT (algoritmo de decisión de inserción de contenedores)
+  - QUÉ hueco se elige para un contenedor entre sus posibilidades
+  - CÓMO gestionar el área de espera
+
+  Si existe el contenedor es de 2 plazas se busca hueco de 2 plazas,
+  sino en uno de tres plazas
+  sino en uno de cuatro
+  y asi sucesivamente
+
+  Se busca el menor índice de hilera y de plaza
+
+  Si no existe hueco BEST_FIT pone el contenedor en área de espera
+
+  Área de espera LIFO (cola)
+
+**EJEMPLO DE IMPLEMENTACIÓN:**
+
+i A 3, i B 2, i C 3, i D 1, i E 1, i F 3, i G 1,
+i H 2, **r A**, r E, r C, i I 1, i J 3, i K 2
+Justo antes de retirar el contenedor A el estado de la terminal sería el siguiente:
+espera: -
+
+piso 2 D E H H
+piso 1 B B F F F G
+piso 0 A A A C C C
+
+Para retirar A: Se retira en este orden: D,E,B,H y F. Se recolocan
+aplicando criterio BEST_FIT. Estado final:
+
+espera: -
+piso 2 B B       E
+piso 1 H H D     G
+piso 0 F F F C C C
+
+Después de peticiones de inserción y retirada:
+espera: -
+piso 2 B B G
+piso 1 H H D J J J
+piso 0 F F F I K K
+
+A la hora de insertar J no hay lugar, pero tras insertar K se puede colocar
+J encima.
+
+2. FUNCIONALIDADES:
+2.1 DATOS:
+  - Matrículas: strings con letras A a Z y nums de 0 a 9
+  - Se usará 1,2 y 3 para indicar num de plazas contenedores
+  - crea_terminal (N,H y M)
+  - Ubi en almacenaje <i,j,k> con (0<i<N), (0<j<M) y (0<k<H)
+   Ubi de todos los de espera (-1,0,0)
+   Se usa (-1,-1,-1) para indicar que no se encuentra en ningún área
+
+2.2 PROGRAMA PRINCIPAL: ESTRUCTURA Y COMANDOS
+...

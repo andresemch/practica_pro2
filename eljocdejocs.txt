@@ -1,0 +1,3429 @@
+crea_terminal 2 14 8
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 9 7 8
+i A 3
+i B 2
+i C 1
+i L 2
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 1 5 7
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 3 4 5
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 4 9 4
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 3 15 3
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 3 6 4
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 1 23 4
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 6 7 4
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 4 1 5
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 2 8 7
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 1 2 3
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 1 5 6
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 3 24 8
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 2 80 2
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 1 40 1
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 5 50 1
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 5 86 4
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+crea_terminal 8 6 5
+i A 3
+i B 2
+i C 1
+area_almacenaje
+huecos
+i L 2
+i D 3
+i J 2
+r C
+area_almacenaje
+huecos
+donde C
+donde L
+area_almacenaje
+huecos
+num_plazas
+contenedor_ocupa 1 2 3
+i C 1
+i L 2
+area_espera
+i AD 3
+num_hileras
+r A
+i BV 2
+i XD 1
+area_almacenaje
+huecos
+donde A
+longitud L
+longitud A
+area_espera
+donde L
+contenedores
+donde JAVIT
+num_pisos
+area_almacenaje
+huecos
+i QAZ 2
+area_almacenaje
+huecos
+i KEKW 2
+area_espera
+donde KYS
+r C
+r V
+r B
+contenedores
+r T
+r K
+r L
+contenedores
+area_espera
+donde L
+area_almacenaje
+huecos
+i P 3
+r P
+i P 3
+i L 3
+i FF 3
+i SUSPENDO 2
+i AF 3
+i LK 1
+i P 2
+r FF
+area_almacenaje
+huecos
+area_espera
+donde FF
+donde AF
+longitud AF
+longitud FF
+contenedor_ocupa 1 2 10000
+contenedor_ocupa 2 3 4
+donde K
+area_almacenaje
+huecos
+contenedores
+i LKJ 3
+i POI 2
+i LKA 2
+i AZX 2
+r POI
+area_almacenaje
+huecos
+donde LKJ
+longitud LKJ
+num_pisos
+num_hileras
+num_plazas
+contenedores
+r LKJ
+area_espera
+contenedores
+area_almacenaje
+huecos
+i H 3
+huecos
+i KASD 2
+i OPASD 3
+i JHG 3
+i ASD 3
+i LKJHGF 3
+area_almacenaje
+huecos
+r B
+area_almacenaje
+huecos
+area_espera
+contenedores
+i LKJ 2
+i ASDFF 2
+i UHYT 3
+i ASDFEW 1
+i LKJH 1
+i POAS 1
+r LKJ
+r LKJH
+area_almacenaje
+huecos
+contenedores
+r J
+area_almacenaje
+huecos
+r UHYT
+contenedores
+area_almacenaje
+huecos
+donde UHYT
+donde ASD
+longitud ASD
+longitud B
+contenedores
+huecos
+r D
+area_almacenaje
+huecos
+num_pisos
+num_hileras
+num_plazas
+area_espera
+contenedor_ocupa 1 4 5
+contenedor_ocupa 0 0 0
+contenedor_ocupa 14 7 4
+contenedor_ocupa -1 0 0
+donde K
+longitud H
+i KASD 2
+i KGB 3
+i FBI 1
+i CIA 2
+r KGB
+huecos
+area_almacenaje
+r KASD
+area_almacenaje
+huecos
+r FBI
+r CIA
+area_almacenaje
+huecos
+contenedores
+area_espera
+i OP 2
+i AS 3
+i KL 3
+i YT 2
+i AS 1
+i KLS 2
+area_almacenaje
+huecos
+r OP
+area_almacenaje
+huecos
+area_espera
+contenedores
+donde OP
+donde AS
+contenedor_ocupa 1 2 3
+fin
